@@ -36,9 +36,6 @@
         <img src="https://img.shields.io/badge/-Richard Quayson-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
     </a>
     &nbsp; &nbsp; &nbsp;
-</p>
-
-<p>
     <a href="mailto:richard.quayson80@gmail.com">
         <img src="https://img.shields.io/badge/-richard.quayson80@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
     </a>
