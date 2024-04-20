@@ -1,8 +1,7 @@
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Richard-Quayson&color=71c7ec&style=flat" alt="profile-view-counter"/>
-</p>
-
-<h2 align="left"> Hi there👋 </h2>
+<h2 align="left"> 
+    Hi there👋 
+    <img style="float: right;" src="https://komarev.com/ghpvc/?username=Richard-Quayson&color=71c7ec&style=flat" alt="profile-view-counter"/>
+</h2>
 
 * 👨🏻‍💻I'm Richard Quayson
 * 👩🏼‍🎓Computer Science Senior @ Ashesi University, Ghana
