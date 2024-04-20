@@ -60,6 +60,12 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=php"/>
     &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=r"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=regex"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=dart"/>
+    &nbsp; &nbsp; &nbsp;
 </p>
 
 <p>
@@ -71,16 +77,8 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=bootstrap"/>
     &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=r"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=regex"/>
-    &nbsp; &nbsp; &nbsp;
 </p>
 
-<p>
-    <img src="https://skillicons.dev/icons?i=dart"/>
-    &nbsp; &nbsp; &nbsp;
-</p>
 
 <h3 align="left"> Frameworks: </h3>
 <p>
