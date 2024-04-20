@@ -29,7 +29,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Quayson&title_color=9925be&text_color=2596be&bg_color=041014&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<p align="center">
+<p>
     <b>NOTE:</b> 
     Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <p>
