@@ -1,14 +1,7 @@
-<h2 align="left"> 
-    Hi there👋 
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <img style="float: right;" src="https://komarev.com/ghpvc/?username=Richard-Quayson&color=71c7ec&style=flat" alt="profile-view-counter"/>
-</h2>
-
+<h2 align="left"> Hi there👋 </h2>
+<p>
+    <img src="https://komarev.com/ghpvc/?username=Richard-Quayson&color=71c7ec&style=flat" alt="profile-view-counter"/>
+</p>
 
 * 👨🏻‍💻I'm Richard Quayson
 * 👩🏼‍🎓Computer Science Senior @ Ashesi University, Ghana
