@@ -65,20 +65,16 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=r"/>
     &nbsp; &nbsp; &nbsp;
+</p>
+
+<p>
     <img src="https://skillicons.dev/icons?i=regex"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=dart"/>
     &nbsp; &nbsp; &nbsp;
-</p>
-
-<p>
     <img src="https://skillicons.dev/icons?i=html"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=css"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=tailwind"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=bootstrap"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
@@ -94,6 +90,10 @@
     <img src="https://skillicons.dev/icons?i=flutter"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=spring"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind"/>
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
