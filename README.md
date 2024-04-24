@@ -12,7 +12,9 @@
 <p>
     I'm a <b>Full Stack Developer</b> with a year of experience in both backend and frontend development. I have developed REST APIs in Python using Flask and DjangoRestFramework. I have integrated such APIs with interfaces developed in HTML and React.
 </p>
-
+<p>
+    I have interests in <b>Software Engineering</b> and <b>Large Language Models</b> or Machine Learning in general. Look forward to collaborating on any project related in these two primary fields and more.
+</p>
 
 ## GitHub Analytics
 
