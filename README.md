@@ -37,15 +37,15 @@
 
 <p align="center">
     <a href="https://richard-quayson.github.io/">
-        <img src="https://img.shields.io/badge/-Richard Quayson-3423A6?style=flat&logo=Github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Richard Quayson-3423A6?style=flat&logo=Github&logoColor=white" height="25"/>
     </a>
     &nbsp; &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/richard-quayson/">
-        <img src="https://img.shields.io/badge/-Richard Quayson-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Richard Quayson-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25"/>
     </a>
     &nbsp; &nbsp; &nbsp;
     <a href="mailto:richard.quayson80@gmail.com">
-        <img src="https://img.shields.io/badge/-richard.quayson80@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-richard.quayson80@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" height="25"/>
     </a>
     &nbsp; &nbsp; &nbsp;
 </p>
