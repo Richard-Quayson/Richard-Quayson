@@ -3,9 +3,13 @@
     <img src="https://komarev.com/ghpvc/?username=Richard-Quayson&color=71c7ec&style=flat" alt="profile-view-counter"/>
 </p>
 
-- 👨🏻‍💻I'm Richard Quayson
-- 👩🏼‍🎓Computer Science Senior @ Ashesi University, Ghana
-- <h1>✌︎︎ I am available for hire.</h1>
+👨🏻‍💻 I'm Richard Quayson
+
+👩🏼‍🎓 Computer Science Senior @ Ashesi University, Ghana
+
+### ✌︎︎ I am available for hire.
+
+### **[Resume](https://drive.google.com/file/d/1sYusYkBx6wbHojmsa7PucYzHHJuUtFVj/view?usp=sharing)**
 
 ## About Me
 
