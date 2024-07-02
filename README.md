@@ -5,7 +5,7 @@
 
 * 👨🏻‍💻I'm Richard Quayson
 * 👩🏼‍🎓Computer Science Senior @ Ashesi University, Ghana
-* ✌︎︎ I am **available for hire**. 
+* <h1>✌︎︎ I am available for hire.</h1>
 
 
 ## About Me
