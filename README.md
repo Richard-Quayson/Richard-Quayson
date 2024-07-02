@@ -152,6 +152,8 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=pycharm"/>
     &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=idea"/>
+    &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=clion"/>
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=anaconda"/>
