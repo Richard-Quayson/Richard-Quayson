@@ -18,15 +18,15 @@
 
 ## GitHub Analytics
 
-<p>
+<p align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Richard-Quayson&title_color=9925be&text_color=2596be&bg_color=041014&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     &nbsp; &nbsp; &nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Quayson&title_color=9925be&text_color=2596be&bg_color=041014&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
     <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=dark">    
-</div>
+</p>
 
 <p>
     <b>NOTE:</b> 
@@ -35,7 +35,7 @@
 
 ## Connect with Me
 
-<p>
+<p align="center">
     <a href="https://richard-quayson.github.io/">
         <img src="https://img.shields.io/badge/-Richard Quayson-3423A6?style=flat&logo=Github&logoColor=white"/>
     </a>
