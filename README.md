@@ -3,12 +3,12 @@
     <img src="https://komarev.com/ghpvc/?username=Richard-Quayson&color=71c7ec&style=flat" alt="profile-view-counter"/>
 </p>
 
-* 👨🏻‍💻I'm Richard Quayson
-* 👩🏼‍🎓Computer Science Senior @ Ashesi University, Ghana
-* <h1>✌︎︎ I am available for hire.</h1>
-
+- 👨🏻‍💻I'm Richard Quayson
+- 👩🏼‍🎓Computer Science Senior @ Ashesi University, Ghana
+- <h1>✌︎︎ I am available for hire.</h1>
 
 ## About Me
+
 <p>
     I'm a <b>Full Stack Developer</b> with a year of experience in both backend and frontend development. I have developed REST APIs in Python using Flask and DjangoRestFramework. I have integrated such APIs with interfaces developed in HTML and React.
 </p>
@@ -19,16 +19,19 @@
 ## GitHub Analytics
 
 <p>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Richard-Quayson&title_color=9925be&text_color=2596be&bg_color=041014&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-&nbsp; &nbsp; &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Quayson&title_color=9925be&text_color=2596be&bg_color=041014&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Richard-Quayson&title_color=9925be&text_color=2596be&bg_color=041014&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    &nbsp; &nbsp; &nbsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Quayson&title_color=9925be&text_color=2596be&bg_color=041014&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<p>
-    <b>NOTE:</b> 
-    Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=dark">
+</div>
 
+<p style="margin-top: 1.5em">
+    <b>NOTE:</b> 
+    Top languages, Total PRs, Total Issues and Contributed to is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p>
 
 ## Connect with Me
 
@@ -46,8 +49,6 @@
     </a>
     &nbsp; &nbsp; &nbsp;
 </p>
-
-
 
 ## Tools and Technologies
 
@@ -79,7 +80,6 @@
     <img src="https://skillicons.dev/icons?i=css"/>
     &nbsp; &nbsp; &nbsp;
 </p>
-
 
 <h3 align="left"> Frameworks: </h3>
 <p>
