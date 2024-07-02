@@ -28,7 +28,7 @@
     <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=dark">    
 </div>
 
-&nbsp; &nbsp;
+&nbsp;
 
 <p>
     <b>NOTE:</b> 
