@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=algolia&exclude_days=Sun">    
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=algolia&exclude_days=Sun&fire=orange&ring=orange&currStreakNum=white&currStreakLabel=deepskyblue">    
 </p>
 
 <p>
