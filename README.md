@@ -28,8 +28,6 @@
     <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=dark">    
 </div>
 
-&nbsp;
-
 <p>
     <b>NOTE:</b> 
     Top languages, Total PRs, Total Issues and Contributed to is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
