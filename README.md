@@ -7,7 +7,7 @@
 
 👩🏼‍🎓 Computer Science Senior @ Ashesi University, Ghana
 
-### ✌︎︎ I am available for hire.
+<!-- ### ✌︎︎ I am available for hire. -->
 
 ### **[Resume](https://drive.google.com/file/d/1-VfCrKhJI2cfVFurCk4Yx_ddbbX2OK2L/view?usp=sharing)**
 
