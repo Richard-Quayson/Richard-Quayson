@@ -3,13 +3,13 @@
     <img src="https://komarev.com/ghpvc/?username=Richard-Quayson&color=71c7ec&style=flat" alt="profile-view-counter"/>
 </p>
 
-👨🏻‍💻 I'm Richard Quayson
-
-👩🏼‍🎓 Computer Science Senior @ Ashesi University, Ghana
+<a href="https://github.com/Richard-Quayson">
+    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&duration=3000&pause=50&vCenter=true&multiline=true&width=1000&height=80&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Richard+Quayson;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93+Computer+Science+Senior+%40+Ashesi+University%2C+Ghana;%F0%9F%A7%92%F0%9F%8F%BB+Software+Engineer+%7C+LLM+Enthusiast+%7C+Django+Developer" alt="Typing SVG" />
+</a>
 
 <!-- ### ✌︎︎ I am available for hire. -->
 
-### **[Resume](https://drive.google.com/file/d/1-VfCrKhJI2cfVFurCk4Yx_ddbbX2OK2L/view?usp=sharing)**
+**[Resume](https://drive.google.com/file/d/1-VfCrKhJI2cfVFurCk4Yx_ddbbX2OK2L/view?usp=sharing)**
 
 ## About Me
 
