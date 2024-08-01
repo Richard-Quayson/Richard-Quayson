@@ -29,7 +29,11 @@
 </p>
 
 <p align="center">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=algolia&fire=orange&ring=orange&currStreakNum=white&currStreakLabel=deepskyblue">    
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=algolia&fire=orange&ring=orange&currStreakNum=white&currStreakLabel=deepskyblue"> 
+</p>
+
+<p align="center">
+    <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richard-Quayson&theme=algolia">
 </p>
 
 <p>
