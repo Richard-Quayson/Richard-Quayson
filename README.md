@@ -66,49 +66,70 @@
 
 <details>
 <summary>Languages</summary>
-<p style="margin-top: 20px">
+
+<br>
+
+<p>
     <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,php,r,regex,dart,html,css"/>
 </p>
 </details>
 
 <details>
 <summary>Frameworks</summary>
-<p style="margin-top: 20px">
+
+<br>
+
+<p>
     <img src="https://skillicons.dev/icons?i=django,flask,react,flutter,spring,tailwind,bootstrap"/>
 </p>
 </details>
 
 <details>
 <summary>Databases</summary>
-<p style="margin-top: 20px">
+
+<br>
+
+<p>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase"/>
 </p>
 </details>
 
 <details>
 <summary>Deployments</summary>
-<p style="margin-top: 20px">
+
+<br>
+
+<p>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp"/>
 </p>
 </details>
 
 <details>
 <summary>Version Control</summary>
-<p style="margin-top: 20px">
+
+<br>
+
+<p>
     <img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
 </details>
 
 <details>
 <summary>More Tools</summary>
-<p style="margin-top: 20px">
+
+<br>
+
+<p>
     <img src="https://skillicons.dev/icons?i=postman,figma"/>
 </p>
 </details>
 
 <details>
 <summary>IDEs</summary>
-<p style="margin-top: 20px">
+
+<br>
+
+<p>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,clion,anaconda"/>
 </p>
 </details>
