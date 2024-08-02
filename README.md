@@ -58,74 +58,52 @@
     &nbsp; &nbsp; &nbsp;
 </p>
 
-
-## Tools and Technologies
+## 🛠 Tools and Technologies
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
-    <h3 style="margin: 0; display: inline;">Languages</h3>
-</summary>
+<summary>Languages</summary>
 <p>
     <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,php,r,regex,dart,html,css"/>
 </p>
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
-    <h3 style="margin: 0; display: inline;">Frameworks</h3>
-</summary>
+<summary>Frameworks</summary>
 <p>
     <img src="https://skillicons.dev/icons?i=django,flask,react,flutter,spring,tailwind,bootstrap"/>
 </p>
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
-    <h3 style="margin: 0; display: inline;">Databases</h3>
-</summary>
+<summary>Databases</summary>
 <p>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase"/>
 </p>
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
-    <h3 style="margin: 0; display: inline;">Deployments</h3>
-</summary>
+<summary>Deployments</summary>
 <p>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp"/>
 </p>
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
-    <h3 style="margin: 0; display: inline;">Version Control</h3>
-</summary>
+<summary>Version Control</summary>
 <p>
     <img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
-    <h3 style="margin: 0; display: inline;">More Tools</h3>
-</summary>
+<summary>More Tools</summary>
 <p>
     <img src="https://skillicons.dev/icons?i=postman,figma"/>
 </p>
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
-    <h3 style="margin: 0; display: inline;">IDEs</h3>
-</summary>
+<summary>IDEs</summary>
 <p>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,clion,anaconda"/>
 </p>
