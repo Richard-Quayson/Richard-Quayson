@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richard-Quayson&theme=algolia" alt=">
+    <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richard-Quayson&theme=algolia" alt="Contribution Graph">
 </p>
 
 <p>
