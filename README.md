@@ -9,8 +9,13 @@
 
 <!-- ### ✌︎︎ I am available for hire. -->
 
-### **[Resume](https://drive.google.com/file/d/1-VfCrKhJI2cfVFurCk4Yx_ddbbX2OK2L/view?usp=sharing)**
-
+<p>
+    <h3>
+        <a style="color: #36BCF7FF" href="https://drive.google.com/file/d/1-VfCrKhJI2cfVFurCk4Yx_ddbbX2OK2L/view?usp=sharing">
+            Resume
+        </a>
+    </h3>
+</p>
 
 ## About Me
 
@@ -20,7 +25,6 @@
 <p>
     I have interests in <b>Software Engineering</b> and <b>Large Language Models</b> or Machine Learning in general. Look forward to collaborating on any project related in these two primary fields and more.
 </p>
-
 
 ## GitHub Analytics
 
@@ -43,7 +47,6 @@
     Top languages, Total PRs, Total Issues and Contributed to is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <p>
 
-
 ## Connect with Me
 
 <p align="center">
@@ -60,7 +63,6 @@
     </a>
     &nbsp; &nbsp; &nbsp;
 </p>
-
 
 ## Tools and Technologies
 
