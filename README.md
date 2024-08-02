@@ -58,108 +58,75 @@
     &nbsp; &nbsp; &nbsp;
 </p>
 
+
 ## Tools and Technologies
 
-<h3 align="left"> Languages: </h3>
+<details>
+<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
+    <span style="margin-right: 10px;">▶</span>
+    <h3 style="margin: 0; display: inline;">Languages</h3>
+</summary>
 <p>
-    <img src="https://skillicons.dev/icons?i=py"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=java"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=cpp"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=c"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=js"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=php"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=r"/>
-    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,php,r,regex,dart,html,css"/>
 </p>
+</details>
 
+<details>
+<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
+    <span style="margin-right: 10px;">▶</span>
+    <h3 style="margin: 0; display: inline;">Frameworks</h3>
+</summary>
 <p>
-    <img src="https://skillicons.dev/icons?i=regex"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=dart"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=html"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=css"/>
-    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=django,flask,react,flutter,spring,tailwind,bootstrap"/>
 </p>
+</details>
 
-<h3 align="left"> Frameworks: </h3>
+<details>
+<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
+    <span style="margin-right: 10px;">▶</span>
+    <h3 style="margin: 0; display: inline;">Databases</h3>
+</summary>
 <p>
-    <img src="https://skillicons.dev/icons?i=django"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=flask"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=react"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=flutter"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=spring"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=tailwind"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=bootstrap"/>
-    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase"/>
 </p>
+</details>
 
-<h3 align="left"> Databases: </h3>
+<details>
+<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
+    <span style="margin-right: 10px;">▶</span>
+    <h3 style="margin: 0; display: inline;">Deployments</h3>
+</summary>
 <p>
-    <img src="https://skillicons.dev/icons?i=mysql"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=postgresql"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=sqlite"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=mongodb"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=firebase"/>
-    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp"/>
 </p>
+</details>
 
-<h3 align="left"> Deployments: </h3>
+<details>
+<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
+    <span style="margin-right: 10px;">▶</span>
+    <h3 style="margin: 0; display: inline;">Version Control</h3>
+</summary>
 <p>
-    <img src="https://skillicons.dev/icons?i=docker"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=kubernetes"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=gcp"/>
-    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
+</details>
 
-<h3 align="left"> Version Control: </h3>
+<details>
+<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
+    <span style="margin-right: 10px;">▶</span>
+    <h3 style="margin: 0; display: inline;">More Tools</h3>
+</summary>
 <p>
-    <img src="https://skillicons.dev/icons?i=git"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=github"/>
-    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=postman,figma"/>
 </p>
+</details>
 
-<h3 align="left"> More Tools: </h3>
-
+<details>
+<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
+    <span style="margin-right: 10px;">▶</span>
+    <h3 style="margin: 0; display: inline;">IDEs</h3>
+</summary>
 <p>
-    <img src="https://skillicons.dev/icons?i=postman"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=figma"/>
-    &nbsp; &nbsp; &nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,clion,anaconda"/>
 </p>
-
-<h3 align="left"> IDEs: </h3>
-<p>
-    <img src="https://skillicons.dev/icons?i=vscode"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=visualstudio"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=pycharm"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=idea"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=clion"/>
-    &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=anaconda"/>
-    &nbsp; &nbsp; &nbsp;
-</p>
+</details>
