@@ -62,8 +62,7 @@
 ## Tools and Technologies
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
+<summary style="display: flex; align-items: center;">
     <h3 style="margin: 0; display: inline;">Languages</h3>
 </summary>
 <p>
@@ -72,8 +71,7 @@
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
+<summary style="display: flex; align-items: center;">
     <h3 style="margin: 0; display: inline;">Frameworks</h3>
 </summary>
 <p>
@@ -82,8 +80,7 @@
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
+<summary style="display: flex; align-items: center;">
     <h3 style="margin: 0; display: inline;">Databases</h3>
 </summary>
 <p>
@@ -92,8 +89,7 @@
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
+<summary style="display: flex; align-items: center;">
     <h3 style="margin: 0; display: inline;">Deployments</h3>
 </summary>
 <p>
@@ -102,8 +98,7 @@
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
+<summary style="display: flex; align-items: center;">
     <h3 style="margin: 0; display: inline;">Version Control</h3>
 </summary>
 <p>
@@ -112,8 +107,7 @@
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
+<summary style="display: flex; align-items: center;">
     <h3 style="margin: 0; display: inline;">More Tools</h3>
 </summary>
 <p>
@@ -122,8 +116,7 @@
 </details>
 
 <details>
-<summary style="display: flex; align-items: center; cursor: pointer; margin-bottom: 10px;">
-    <span style="margin-right: 10px;">▶</span>
+<summary style="display: flex; align-items: center;">
     <h3 style="margin: 0; display: inline;">IDEs</h3>
 </summary>
 <p>
