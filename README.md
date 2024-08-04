@@ -25,17 +25,17 @@
 ## GitHub Analytics
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Richard-Quayson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="General Statistics"/>
-    &nbsp; &nbsp; &nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Quayson&layout=compact&langs_count=8&theme=algolia"/ alt="Most Used Languages">
-</p>
-
-<p align="center">
     <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=algolia&fire=orange&ring=orange&currStreakNum=white&currStreakLabel=deepskyblue" alt="Streak Card"> 
 </p>
 
 <p align="center">
     <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richard-Quayson&theme=algolia" alt="Contribution Graph">
+</p>
+
+<p align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Richard-Quayson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="General Statistics"/>
+    &nbsp; &nbsp; &nbsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Quayson&layout=compact&langs_count=8&theme=algolia"/ alt="Most Used Languages">
 </p>
 
 <p>
