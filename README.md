@@ -13,7 +13,7 @@
 
 ## About Me
 
-<p> I'm a <b>Backend Engineer</b> with three years of experience building scalable systems and APIs in Python (Flask, Django) and integrating them with modern frontend technologies like React and TailwindCSS. While my primary focus is backend development, I’m equally proficient in frontend work, including HTML, CSS, and JavaScript, and have hands-on experience creating seamless integrations between backend services and user interfaces. </p>
+<p> I'm a <b>Backend Engineer</b> with three years of experience building scalable systems and APIs in Python (Flask, Django) and integrating them with modern frontend technologies like React and TailwindCSS. While my primary focus is backend engineering, I’m equally decent in frontend work and have hands-on experience creating seamless integrations between backend services and user interfaces. </p>
 <p>
     I have interests in <b>Software Engineering</b> and <b>Large Language Models</b> or Machine Learning in general. Looking forward to collaborating on any project related in these two primary fields and more.
 </p>
