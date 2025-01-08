@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://github.com/Richard-Quayson">
-    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&duration=3000&pause=50&vCenter=true&multiline=true&width=1000&height=75&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Richard+Quayson;%F0%9F%A7%92%F0%9F%8F%BB+Software+Engineer+%7C+LLM+Enthusiast+%7C+Django+Engineer;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93+Computer+Science+Alumnus+%40+Ashesi+University%2C+Ghana" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&duration=3000&pause=50&vCenter=true&multiline=true&width=1000&height=80&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Richard+Quayson;%F0%9F%A7%92%F0%9F%8F%BB+Software+Engineer+%7C+LLM+Enthusiast+%7C+Django+Engineer;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93+Computer+Science+Alumnus+%40+Ashesi+University%2C+Ghana" alt="Typing SVG" />
 </a>
 
 <!-- ### ✌︎︎ I am available for hire. -->
@@ -13,7 +13,7 @@
 
 ## About Me
 
-<p> I'm a <b>Backend Engineer</b> with three years of experience building scalable systems and APIs in Python (Flask, Django) and integrating them with modern frontend technologies like React and TailwindCSS. While my primary focus is backend engineering, I’m equally decent in frontend work and have hands-on experience creating seamless integrations between backend services and user interfaces. </p>
+<p> I'm a <b>Backend Engineer</b> with three years of experience building scalable systems and APIs in Python (Flask, Django) and integrating them with modern frontend technologies like React and TailwindCSS. While my primary focus is backend engineering, I’m equally decent in frontend development and have hands-on experience creating seamless integrations between backend services and user interfaces. </p>
 <p>
     I have interests in <b>Software Engineering</b> and <b>Large Language Models</b> or Machine Learning in general. Looking forward to collaborating on any project related in these two primary fields and more.
 </p>
