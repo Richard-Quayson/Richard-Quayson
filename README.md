@@ -1,14 +1,14 @@
-<h2 align="left"> Hi there👋 </h2>
+<!-- <h2 align="left"> Hi there👋 </h2>
 <p>
     <img src="https://komarev.com/ghpvc/?username=Richard-Quayson&color=71c7ec&style=flat" alt="profile-view-counter"/>
 </p>
 
 <a href="https://github.com/Richard-Quayson">
     <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&duration=3000&pause=50&vCenter=true&multiline=true&width=1000&height=75&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Richard+Quayson;%F0%9F%A7%92%F0%9F%8F%BB+Software+Engineer+%7C+LLM+Enthusiast+%7C+Django+Engineer;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93+Computer+Science+Alumnus+%40+Ashesi+University%2C+Ghana" alt="Typing SVG" />
-</a>
+</a> -->
 
 <!-- ### ✌︎︎ I am available for hire. -->
-
+<!--
 ### **[Resume](https://drive.google.com/file/d/1-VfCrKhJI2cfVFurCk4Yx_ddbbX2OK2L/view?usp=sharing)**
 
 ## About Me
@@ -21,7 +21,7 @@
 ## GitHub Analytics
 
 <p align="center">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=algolia&fire=orange&ring=orange&currStreakNum=white&currStreakLabel=deepskyblue" alt="Streak Card"> 
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Richard-Quayson&theme=algolia&fire=orange&ring=orange&currStreakNum=white&currStreakLabel=deepskyblue" alt="Streak Card">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 
 <p>
-    <b>NOTE:</b> 
+    <b>NOTE:</b>
     Top languages, Total PRs, Total Issues and Contributed to is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <p>
 
@@ -126,4 +126,6 @@
 <p>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,clion,anaconda"/>
 </p>
-</details>
+</details> -->
+
+<img src="rb.png">
