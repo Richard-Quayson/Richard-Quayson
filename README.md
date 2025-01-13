@@ -128,4 +128,6 @@
 </p>
 </details> -->
 
-<img src="rb.png">
+<p align="center">
+    <img src="rb.png">
+</p>
